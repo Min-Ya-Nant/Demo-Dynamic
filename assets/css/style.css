@@ -918,7 +918,7 @@
   
   /* BACKGROUND UTILS */
   .bg-primary {
-    background-color: #2d3e50;
+    background-color: #65dff5;
   }
   
   .bg-info {
@@ -1064,7 +1064,7 @@
   }
   
   .btn.btn-black {
-    background-color: #000000;
+    background-color: #151616ad;
     color: #ffffff;
   }
   
@@ -1088,7 +1088,7 @@
   
   .card .card-header {
     padding: 0.375rem;
-    background-color: #2d3e50;
+    background-color: #43dfeb;
     color: #d9e9e8;
   }
   
